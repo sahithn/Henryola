@@ -39,13 +39,6 @@ def submitted_form():
     email = request.form['email']
     reason = request.form['reason']
 
-    
-    
-    
-    
-    
-    
-
     # [START render_template]
     return render_template(
         'submitted_form.html',

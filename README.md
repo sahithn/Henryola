@@ -1,7 +1,7 @@
 # App Engine Standard Flask Tutorial App
 
-This sample shows how to use [Flask](http://flask.pocoo.org/) to handle
-requests, forms, templates, and static files on Google App Engine Standard.
+Henryola is based on the Google App Engine Flask Tutorial file.
+
 
 Before running or deploying this application, install the dependencies using
 [pip](http://pip.readthedocs.io/en/stable/):
